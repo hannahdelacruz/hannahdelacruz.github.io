@@ -1,0 +1,75 @@
+.nav_bar {
+    border-bottom: 1px solid black;
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration: none;
+}
+
+#title_name {
+    font-size: 3.5rem;
+    margin:15px;
+}
+
+.homepage_project_image {
+    max-width: 600px;
+}
+.project_card_name  {
+    text-align: center;
+}
+
+.project_card_about {
+    text-align: center;
+}
+
+.project_page_description {
+    margin-top: 1%;
+}
+
+.padding {
+padding: 10px 10px 10px 10px;
+}
+
+#circle {
+  border-radius: 50%;
+}
+
+.aboutmeinfo {
+  position: absolute;
+width: 858px;
+height: 180px;
+left: 482px;
+top: 247px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #00000;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(245, 40, 145, .8.);
+  border: 0px solid rgba(245, 244, 145, .8.);
+  padding: 10px;
+  font-size: 0px;
+  text-align: center;
+}
+
+.rightnav {
+  float: right;
+  padding: 10px;
+}
+
+.leftnav {
+  float:left;
+  padding:10px;
+}
+
+* {
+  font-family: Futura, serif;
+  color: white;
+  line-height: 1.5;
+  background-color:black;
+}
